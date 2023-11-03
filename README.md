@@ -30,6 +30,6 @@ A set of tasks and challenge for nerds to train and get familiar with software c
 
 
  ## any questions?
- open a [discussion](/discussions) or report open an [issue]()
+ open a [discussion](/../../discussions) or report open an [issue](/../../issues)
 
 
